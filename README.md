@@ -27,5 +27,3 @@ $ python -m venv env_name
 ```sh
     $ python main.py
 ```
-
-
